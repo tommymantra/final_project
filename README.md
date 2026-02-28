@@ -1,5 +1,5 @@
 # Alaris The Unruly
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://www.youtube.com/watch?v=MfyO_gPO230>
 
 #### Description:
 **Alaris the Unruly** is a 2D side-scrolling action-adventure platformer programmed in Python using Pygame. Players control Alaris – an emperor who escaped an enemy spacecraft and landed on a strange planet named Ioda. Here, users are challenged to traverse difficult terrain containing various enemies and hazards to complete each level.
