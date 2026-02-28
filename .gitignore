@@ -1,0 +1,6 @@
+dist/
+build/
+*.mp4
+*.zip
+alaris.spec
+.DS_Store
