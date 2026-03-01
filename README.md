@@ -6,6 +6,12 @@
 
 ---
 
+## Play the Game
+* **[Download Alaris the Unruly (Windows/Mac)](https://drive.google.com/drive/folders/1wLxpx_V77939LXu_y57Cm1O3lH4jXB18?usp=drive_link)**
+* *Note: See the included `GAME_GUIDE` for extraction and security bypass instructions.*
+
+---
+
 ## 1. Game Concept
 The game is built on high-stakes survival and tactical movement. Players must balance aggression and safety by using a sword and shield to defeat enemies. The world of Ioda is unforgiving. Precise platforming is required to navigate large voids and environmental hazards such as spikes and flying vultures, whom must be avoided entirely. The journey spans two levels that transition in music, visual style, and tone, moving from a somewhat introductory atmosphere to a more intense, challenging environment.
 
